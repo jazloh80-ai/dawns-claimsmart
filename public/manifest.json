@@ -4,8 +4,8 @@
   "description": "AI-powered expense claim extraction and management",
   "start_url": "/",
   "display": "standalone",
-  "background_color": "#000000",
-  "theme_color": "#000000",
+  "background_color": "#0f0f0f",
+  "theme_color": "#0f0f0f",
   "icons": [
     {
       "src": "/icon-192.png",

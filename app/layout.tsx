@@ -7,6 +7,11 @@ const inter = Inter({ subsets: ['latin'] });
 export const metadata: Metadata = {
   title: "Dawn's ClaimSmart",
   description: 'AI-powered expense claim extraction and management',
+  icons: {
+    icon: '/favicon.ico',
+    apple: '/icon-192.png',
+  },
+  manifest: '/manifest.json',
 };
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
